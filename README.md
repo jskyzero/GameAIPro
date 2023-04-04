@@ -1,4 +1,4 @@
-# GameAIPro 简明中文索引
+<!-- # GameAIPro 简明中文索引 -->
 
 ![](https://img.shields.io/badge/游戏AI-blue.svg?style=flat)
 ![](https://img.shields.io/badge/作者-jskyzero-brightgreen.svg?style=flat)
