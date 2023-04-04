@@ -16,7 +16,7 @@
 ## GameAIPro 2021
 
 
-|编号|技术点|原文链接|其他备注|
+|编号|技术类别|原文链接|备注|
 |--|--|--|--|
 |1|游戏测试|[自动AI测试](http://www.gameaipro.com/GameAIProOnlineEdition2021/GameAIProOnlineEdition2021_Chapter01_Automated_AI_Testing_Simple_tests_will_save_you_time.pdf)|--|
 |2||[高效、基于事件的模拟](http://www.gameaipro.com/GameAIProOnlineEdition2021/GameAIProOnlineEdition2021_Chapter02_Efficient_Event_Based_Simulations.pdf)||
@@ -39,11 +39,109 @@
 
 ## GameAIPro3
 
++ 3.1.通用
+
+
+|编号|原文链接|备注|
+|--|--|--|
+1\. [The Illusion of Intelligence](http://www.gameaipro.com/GameAIPro3/GameAIPro3_Chapter01_The_Illusion_of_Intelligence.pdf), Steve Rabin\
+2\. [Creating the Past, Present, and Future with Random Walks](http://www.gameaipro.com/GameAIPro3/GameAIPro3_Chapter02_Creating_the_Past_Present_and_Future_with_Random_Walks.pdf), John Manslow [demo code](http://www.gameaipro.com/code/GameAIPro3_Ch02.zip)\
+3\. [Logging Visualization in *FINAL FANTASY XV*](http://www.gameaipro.com/GameAIPro3/GameAIPro3_Chapter03_Logging_Visualization_in_FINAL_FANTASY_XV.pdf), Matthew W. Johnson, Fabien Gravot, Shintaro Minamino, Ingimar Hólm Guðmundsson, Hendrik Skubch, and Youichiro Miyake\
+4\. [What You See Is Not What You Get: Player Perception of AI Opponents](http://www.gameaipro.com/GameAIPro3/GameAIPro3_Chapter04_Player_Perception_of_AI_Opponents.pdf), Baylor Wetzel and Kyle Anderson\
+5\. [Six Factory System Tricks for Extensibility and Library Reuse](http://www.gameaipro.com/GameAIPro3/GameAIPro3_Chapter05_Six_Factory_System_Tricks_for_Extensibility_and_Library_Reuse.pdf), Kevin Dill\
+6\. [Debugging AI with Instant In-Game Scrubbing](http://www.gameaipro.com/GameAIPro3/GameAIPro3_Chapter06_Debugging_AI_with_Instant_In-Game_Scrubbing.pdf), David Young\
+7\. [But, It Worked on My Machine! How to Build Robust AI for Your Game](http://www.gameaipro.com/GameAIPro3/GameAIPro3_Chapter07_How_to_Build_Robust_AI_for_Your_Game.pdf), Sergio Ocio Barriales
+
++ 3.2.架构
+
+|编号|原文链接|备注|
+|--|--|--|
+
++ 3.3.寻路
+
+|编号|原文链接|备注|
+|--|--|--|
+
++ 3.4.策略
+
+|编号|原文链接|备注|
+|--|--|--|
+
++ 3.5.角色
+
+|编号|原文链接|备注|
+|--|--|--|
+
++ 3.6.其他
+
+|编号|原文链接|备注|
+|--|--|--|
+
 
 ## GameAIPro2
 
++ 2.1.通用
+
+|编号|原文链接|备注|
+|--|--|--|
+
++ 2.2.架构
+
+|编号|原文链接|备注|
+|--|--|--|
+
++ 2.3.寻路
+
+|编号|原文链接|备注|
+|--|--|--|
+
++ 2.4.策略
+
+|编号|原文链接|备注|
+|--|--|--|
+
++ 2.5.角色
+
+|编号|原文链接|备注|
+|--|--|--|
+
++ 2.6.其他
+
+|编号|原文链接|备注|
+|--|--|--|
+
 
 ## GameAIPro
+
++ 1.1.通用
+
+|编号|原文链接|备注|
+|--|--|--|
+
++ 1.2.架构
+
+|编号|原文链接|备注|
+|--|--|--|
+
++ 1.3.寻路
+
+|编号|原文链接|备注|
+|--|--|--|
+
++ 1.4.策略
+
+|编号|原文链接|备注|
+|--|--|--|
+
++ 1.5.角色
+
+|编号|原文链接|备注|
+|--|--|--|
+
++ 1.6.其他
+
+|编号|原文链接|备注|
+|--|--|--|
 
 
 <!-- ## 其他GameAI内容（GDC等） -->
