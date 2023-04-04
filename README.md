@@ -7,9 +7,6 @@
 本站希望充当一个内容索引，帮助中文读者快速找到GameAIPro中自己感兴趣的文章。
 
 
-> 版权声明：具体文章与版权皆归GameAIPro所有，本文仅做内容索引。本内容基于CC BY-NC-SA 4.0发布
-
-
 ## GameAIPro 2021
 
 <!-- 匹配人名正则表达式： ,(.*?\\) -->
@@ -44,10 +41,26 @@
 ## GameAIPro
 
 
-## 参考
+## 其他GameAI内容（GDC等）
+
+
+## 问答环节
+
++ 本文基于什么开源协议
+  + 具体文章与版权皆归GameAIPro所有，本文仅做内容索引
+  + 本内容基于[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)协议发布
++ 觉得有更好的翻译
+  + 请提[Issues](https://github.com/jskyzero/GameAIPro/issues)或者[Pull Requests](https://github.com/jskyzero/GameAIPro/pulls)
++ 如何支持本项目
+  + 分享给身边的人
+  + [点个Star吧](https://github.com/jskyzero/GameAIPro)
+
+
+## 其他参考
 
 + [GameAIPro 官网](http://www.gameaipro.com/)
-+ [作者的其他文章：设计者笔记](https://design.jskyzero.com/)
 
 Enjoy :)
+
+© 2017-2023 [设计者笔记](https://design.jskyzero.com/). All rights reserved.
 
