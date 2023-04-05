@@ -1,6 +1,12 @@
 <tr>
   <td>{{ include.article.index }}</td>
   <td>{{ include.article.section_cn | default: include.article.section }}</td>
-  <td><a href="{{ include.article.src }}">{{ include.article.title_cn | default: include.article.title }}</a></td>
+  <td>
+    <a href="{{ include.article.src }}">{{ include.article.title_cn | default: include.article.title }}</a>
+    {% assign MyString = include.article.demo_src %}
+    {% if MyString != nil and MyString != "" %}
+    , <a href="{{ include.article.demo_src }}">Demo</a>
+    {% endif %}
+  </td>
   <td>{{ include.article.others }}</td>
 </tr>
