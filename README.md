@@ -1,29 +1,15 @@
-<!-- # GameAIPro 简明中文索引 -->
+# GameAIPro 简明中文索引
 
-![](https://img.shields.io/badge/游戏AI-blue.svg?style=flat)
-![](https://img.shields.io/badge/作者-jskyzero-brightgreen.svg?style=flat)
-![](https://img.shields.io/badge/日期-2023/04/04-brightgreen.svg?style=flat)
+<http://gameaipro.jsky.wiki/>
 
 本站希望充当一个内容索引，帮助中文读者快速找到GameAIPro中自己感兴趣的文章。
+
 
 <!-- 一些工具说明 -->
 <!--  -->
 <!-- 匹配人名正则表达式： ,(.*?\\) -->
 <!-- <br> 表格内换行 -->
 <!-- <br> ![](https://img.shields.io/badge/更适合-开发-blue.svg?style=flat) -->
-
-
-## TEST Data
-
-<ul>
-{% for member in site.data.test %}
-  <li>
-    <a href="https://github.com/{{ member.github }}">
-      {{ member.name }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
 
 
 ## GameAIPro 2021
@@ -172,28 +158,4 @@
 |编号|原文链接|备注|
 |--|--|--|
 | | | |
-
-
-<!-- ## 其他GameAI内容（GDC等） -->
-
-
-## 问答环节
-
-+ 本文基于什么开源协议？
-  + 具体文章与版权皆归GameAIPro所有，本文仅做内容索引
-  + 本内容基于[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)协议发布
-+ 觉得有更好的翻译？
-  + 请提[Issues](https://github.com/jskyzero/GameAIPro/issues)或者[Pull Requests](https://github.com/jskyzero/GameAIPro/pulls)
-+ 如何支持本项目？
-  + 分享给身边的人
-  + [点个Star吧！](https://github.com/jskyzero/GameAIPro)
-
-
-## 参考
-
-+ [GameAIPro 官网](http://www.gameaipro.com/)
-
-Enjoy :)
-
-© 2017-2023 [设计者笔记](https://design.jskyzero.com/). All rights reserved.
 

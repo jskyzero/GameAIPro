@@ -1,0 +1,3 @@
+{%- for badge in site.data.badges -%} 
+{% include badge.html text=badge.text color=badge.color style=badge.style %}&nbsp;
+{%- endfor -%}
