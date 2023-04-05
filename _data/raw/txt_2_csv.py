@@ -21,7 +21,7 @@ class Article:
     simple article class
     """
 
-    __HEADERS = ["categories", "others"] + ["section", "index", "title", "src", "authur", "demo_src"]
+    __HEADERS = ["section_cn", "title_cn", "others"] + ["section", "index", "title", "src", "authur", "demo_src"]
 
     def __init__(self, line, section):
         self.section = section
