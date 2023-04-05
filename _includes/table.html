@@ -1,0 +1,15 @@
+<table>
+  <thead>
+    <tr>
+      <th>编号</th>
+      <th>技术类别</th>
+      <th>原文链接</th>
+      <th>备注</th>
+    </tr>
+  </thead>
+  <tbody>
+    {%- for article in include.articles -%}
+    {% include table_tr.html article=article %}
+    {%- endfor -%}
+  </tbody>
+</table>
