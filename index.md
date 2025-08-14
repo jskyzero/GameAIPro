@@ -2,7 +2,6 @@
 layout: default
 ---
 
-{% include gtm-body.html %}
 
 {% include badges.html %}
 
